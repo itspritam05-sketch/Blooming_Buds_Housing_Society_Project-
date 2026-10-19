@@ -1,0 +1,6 @@
+{
+  "name": "Blooming Buds Housing Society",
+  "description": "Premium housing society platform for PGs, flats, apartments, hostels, co-living spaces, and one-day stays with AI recommendations, real-time booking, interactive map, and multi-role dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
